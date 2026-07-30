@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
-
 using namespace std;
+
 int main() {
     string nome;
     double s,v;

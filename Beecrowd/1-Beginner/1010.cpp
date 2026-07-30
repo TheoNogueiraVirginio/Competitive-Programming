@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
-
 using namespace std;
+
 int main(){
     int c1, q1, c2, q2;
     double v1, v2, v;

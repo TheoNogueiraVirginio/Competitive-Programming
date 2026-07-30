@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
-
 using namespace std;
+
 int main() {
     double x1,y1; 
     cin >> x1 >> y1;
