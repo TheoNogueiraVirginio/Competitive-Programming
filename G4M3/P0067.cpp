@@ -1,0 +1,16 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define fast ios_base::sync_with_stdio(false); cin.tie(nullptr)
+
+void solve() {
+    int n; cin >> n;
+    cout << n << '\n';
+}
+
+int main() {
+    fast;
+    solve();
+
+    return 0;
+}
